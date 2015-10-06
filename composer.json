@@ -1,0 +1,10 @@
+{
+    "name": "sylver/hello-world-composer",
+    "authors": [
+        {
+            "name": "SimonGonzalezCepeda",
+            "email": "simongonzalez@iesebre.com"
+        }
+    ],
+    "require": {}
+}
