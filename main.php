@@ -1,12 +1,7 @@
 <?php
-require __DIR__ . "/Hello.php";
+use Com\Iesebre\Dam2\simongonzalez\hellowoldcomposer\Hello;
+require __DIR__ . "/src/Hello.php";
 
-/**
- * Created by PhpStorm.
- * User: sylver
- * Date: 6/10/15
- * Time: 19:32
- */
 
 $greetings = new Hello();
 
