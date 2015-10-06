@@ -6,5 +6,7 @@
             "email": "simongonzalez@iesebre.com"
         }
     ],
-    "require": {}
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
 }
